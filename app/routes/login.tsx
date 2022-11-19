@@ -204,7 +204,7 @@ export default function LoginPage() {
                     search: searchParams.toString(),
                   }}
                 >
-                  Sign up
+                  Cadastrar
                 </Link>
               </div>
             </div>
